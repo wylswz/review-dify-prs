@@ -1,6 +1,6 @@
 # Dify PR Review Skill
 
-Review Dify pull requests using yunlu.wen / wylswz's technical priorities and concise, pragmatic review style.
+The free version of Me that helps you review Dify pull requests, saving you 300 bucks a month.
 
 ## Install
 
@@ -23,3 +23,8 @@ npx skills add wylswz/review-dify-prs --list
 ```
 
 No separate npm package is required; the CLI installs the skill directly from this repository.
+
+
+## Limitation
+
+If you need an end to end test rather than a simple code review, please use the commercial version of Me.
